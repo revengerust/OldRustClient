@@ -1,0 +1,5 @@
+{
+  "Version": 3,
+  "ItemType": "CustomItem",
+  "AuthorId": 76561198022506270
+}
